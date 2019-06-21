@@ -6,8 +6,6 @@ while function_name != 'quit':
         break
     elif function_name == 'abs()':
         print(abs.__doc__)
-    elif function_name == 'cmp()':
-        print(cmp.__doc__)
     elif function_name == 'max()':
         print(max.__doc__)
     elif function_name == 'min()':
