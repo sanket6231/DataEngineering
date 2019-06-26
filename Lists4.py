@@ -1,3 +1,6 @@
+# Python program to count the number of strings where the string length
+# is 2 or more and the first and last character are the same from a given list of strings.
+
 list1 = ['abc', 'xyz', 'aba', '1221', 'asdffdsa']
 result = 0
 for list_item in list1:

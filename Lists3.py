@@ -1,3 +1,5 @@
+# Python program to get the smallest number from a list.
+
 list1 = [234, 65, 87, 32, 10, 431, 5, 6, 13]
 small_no = list1[0]
 for list_item in list1:

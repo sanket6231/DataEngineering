@@ -1,3 +1,6 @@
+# Python program to print a specified list after removing the 0th, 4th and
+# 5th elements.
+
 list1 = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 print('Original List -> ',list1)
 # if index of item is known

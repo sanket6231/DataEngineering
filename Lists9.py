@@ -1,3 +1,6 @@
+# Python function that takes two lists and returns True if they have at
+# least one common member.
+
 list1 = ['abc', 'xyz', 'aba', '1221', 'asdffdsa', 'xyz', 'abc']
 list2 = ['abc', 'xyz']
 

@@ -1,3 +1,5 @@
+# Python program to remove duplicates from a list.
+
 def my_function(x):
   return list(dict.fromkeys(x))
 
