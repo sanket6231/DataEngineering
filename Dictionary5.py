@@ -1,3 +1,6 @@
+# Python script to generate and print a dictionary that contains a
+# number (between 1 and n) in the form (x, x*x).
+
 try:
     increment = 1
     get_number = int(input('Enter a number -> '))
