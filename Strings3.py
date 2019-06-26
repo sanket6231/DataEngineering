@@ -1,3 +1,6 @@
+# Python program to get a string from a given string where all occurrences of its
+# first char have been changed to '$', except the first char itself.
+
 string = 'restart your brain by taking power nap hehehe'
 
 list_of_words = string.split(' ')

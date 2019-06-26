@@ -1,3 +1,6 @@
+# Python program that accepts a comma separated sequence of words as input
+# and prints the unique words in sorted form (alphanumerically).
+
 string = input('Enter the comma separated string -> ')
 if ',' in string:
     print('original string ->', string)
