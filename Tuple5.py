@@ -1,7 +1,10 @@
+# Python program to find the repeated items of a tuple.
+
 tuple1 = (1, 2, 3, 4, 5, 6, 2, 6, 4, 7, 3)
 result_list = []
 
 for ele in tuple1:
+    # Check the count of item in th tuple
     if tuple1.count(ele) > 1:
         if ele not in result_list:
             result_list.append(ele)

@@ -1,3 +1,5 @@
+# Python program to remove an item from a tuple.
+
 tuple1 = (1, 2, 3, 4, 5, 6, 7)
 item_to_be_remove = 4
 try:
