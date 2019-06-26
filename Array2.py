@@ -1,6 +1,10 @@
-from array import *
+# Python program to reverse the order of the items in the array.
 
+from array import *
+# Initialize the array
 arr = array('i', [10, 20, 30, 40, 50])
+
+# Reverse the array
 arr.reverse()
 print(arr)
 
