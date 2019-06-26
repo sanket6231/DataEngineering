@@ -1,3 +1,5 @@
+# Python program to add member(s) in a set.
+
 sets = {1, 2, 3, 4, 5}
 sets.add(6)
 for num in range(7, 9):
