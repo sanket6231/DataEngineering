@@ -1,3 +1,6 @@
+# Python program to concatenate all elements in a list into a string and return it.
+
+
 def list_to_string(list_of_letters):
     string = ''
     for item in list_of_letters:

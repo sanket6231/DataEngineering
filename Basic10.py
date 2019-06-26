@@ -1,3 +1,7 @@
+# Python program to print out a set containing all the colors from color_list_1 which
+# are not present in color_list_2.
+
+
 def Diff_list(list1, list2):
     result = []
     for l1 in list1:

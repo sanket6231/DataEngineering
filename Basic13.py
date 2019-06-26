@@ -1,3 +1,6 @@
+# Python function to find the maximum and minimum numbers from a sequence of
+# numbers.
+
 numbers = [1, 6, 2, 10, 3, 8, 7, 5]
 max_number = min_number = numbers[0]
 

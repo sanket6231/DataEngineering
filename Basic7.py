@@ -1,3 +1,5 @@
+# Python program to check whether a specified value is contained in a group of values.
+
 numbers = [1, 6, 3, 5, 74, 1]
 try:
 
